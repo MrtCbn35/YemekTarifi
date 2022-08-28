@@ -1,1 +1,1 @@
-# YemekTarifi
+# PancakeTarifi
